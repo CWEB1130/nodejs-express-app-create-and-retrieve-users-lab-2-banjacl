@@ -1,0 +1,6 @@
+var user = {
+
+    email: "",
+    password: ""
+    
+}
